@@ -1,0 +1,13 @@
+body{
+    background: rgb(176, 196, 91);
+}
+
+div{
+    margin: 100px;
+}
+
+button {
+    Background: rgb(211, 142, 13);
+    color: black;
+    font-size: 20;
+}
